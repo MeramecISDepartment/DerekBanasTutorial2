@@ -16,6 +16,8 @@ public class DerekBanasTutorial2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //Note to self: System.out.println("..."); will print a line.
+        System.out.println("Hello World");
     }
     
 }
